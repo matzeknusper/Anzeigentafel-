@@ -1,0 +1,6 @@
+{
+  "name": "MATZE.GUARD",
+  "description": "Das ultimative Ticket-Abwehrsystem für Matze's Büro. Zieh eine Nummer und warte gefälligst, bis du aufgerufen wirst!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
